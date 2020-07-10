@@ -53,7 +53,7 @@
 	--lwt-text-color: #9ba0a5 !important;
 	
 	/* toolbar */
-	--toolbar-bgcolor: #333639 !important;
+	--toolbar-bgcolor: #282A36 !important;
 	
 	/* toolbar_text */
 	--toolbar-color: #fff !important;
@@ -98,7 +98,7 @@
 :-moz-any(#sidebar-box, #sidebar)[style*="--sidebar-background-color:rgb(56, 56, 61);"]
 {
 	/* sidebar */
-	--sidebar-background-color: #333639 !important;
+	--sidebar-background-color: #282A36 !important;
 	
 	/* sidebar_text */
 	--sidebar-text-color: #f1f3ee !important;
@@ -107,7 +107,7 @@
 :-moz-any(.sidebar-panel, body)[style*="--lwt-sidebar-background-color:rgb(56, 56, 61);"]
 {
 	/* sidebar */
-	--lwt-sidebar-background-color: #333639 !important;
+	--lwt-sidebar-background-color: #282A36 !important;
 	
 	/* sidebar_text */
 	--lwt-sidebar-text-color: #f1f3ee !important;
