@@ -65,7 +65,7 @@ There's two main sidebar components.
     box-shadow: 2px 0 33px var(--shadow-color);
 }
 
-#main-window[title^="Firefox Developer Edition"] #sidebar-box {
+#main-window[title^="Firefox"] #sidebar-box {
   margin-top: var(--toolmenubar-height) !important;
 }
 
